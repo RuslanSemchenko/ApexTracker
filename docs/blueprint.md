@@ -1,4 +1,4 @@
-# **App Name**: ApexTracker
+# ApexTracker
 
 ## Core Features:
 
