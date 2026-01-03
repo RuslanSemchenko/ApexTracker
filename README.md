@@ -4,7 +4,8 @@ ApexTracker is a sleek, modern, and real-time currency and cryptocurrency monito
 
 The application leverages AI to simulate dynamic market data, providing a realistic experience without requiring external API keys for financial data.
 
-![ApexTracker Screenshot](https://user-images.githubusercontent.com/12345/placeholder.png) <!-- TODO: Replace with an actual screenshot -->
+<img width="1920" height="855" alt="{EAE64B68-E27B-4370-8C4E-8ACB81EF8D05}" src="https://github.com/user-attachments/assets/4d0424f1-c366-4fdc-a1c4-18fbf64237fb" />
+
 
 ---
 
